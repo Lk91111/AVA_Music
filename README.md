@@ -24,9 +24,9 @@ src="https://user-images.githubusercontent.com/55667057/112758119-4e243300-900a-
 </br>
 
 ### APK
-Download apk file here [AVAMusic v1.0](https://github.com/Lk91111/AVA_Music/app/AVAMusic_v1.0.apk)
+Download apk file here [AVAMusic v1.0](https://github.com/Lk91111/AVA_Music/raw/main/app/AVAMusic_v1.0.apk)
 ```
-https://github.com/Lk91111/AVA_Music/app/AVAMusic_v1.0.apk
+https://github.com/Lk91111/AVA_Music/raw/main/app/AVAMusic_v1.0.apk
 ```
 
 ## Profile

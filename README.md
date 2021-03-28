@@ -8,4 +8,4 @@ For screenshots, features, and more information, check out the <a href="" target
 Download the APK from the following link  <a href="" target="_blank">Download</a>
 
 # Profile
-See my portfolio on <a href="" target="_blank">Here</a>
+See my portfolio <a href="" target="_blank">Here</a>

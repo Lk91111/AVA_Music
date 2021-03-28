@@ -1,4 +1,7 @@
 # AVAMusicPlayer
+<img
+src="https://user-images.githubusercontent.com/55667057/112758321-5af55680-900b-11eb-8f53-184c8064aa6c.jpg"/>
+  
 * Simple, Lightweight, User Friendly.<br>
 * 🎵 Play songs from the cloud for free - stream or download on the go.<br>
 
@@ -10,26 +13,15 @@
   <tr>
     <td>
 <img width="360"
-src="https://user-images.githubusercontent.com/33343210/61610738-2c46aa80-ac84-11e9-80fa-bbe8c6d4119a.png"/>
+src="https://user-images.githubusercontent.com/55667057/112758036-d9e98f80-9009-11eb-9e5f-1daf9773250f.png"/>
        <td><img width="360"
-src="https://user-images.githubusercontent.com/33343210/61610968-c3abfd80-ac84-11e9-9c8a-7ac5c9e257ff.jpg"/>
+src="https://user-images.githubusercontent.com/55667057/112758057-06051080-900a-11eb-8e19-0d8bb68b08ab.png"/>
     </td>
      <td> <img width="360"
-src="https://user-images.githubusercontent.com/33343210/61610657-edb0f000-ac83-11e9-8b89-eb205d8ac518.png"/></td>
+src="https://user-images.githubusercontent.com/55667057/112758119-4e243300-900a-11eb-8d7c-1ec37704b3df.png"/></td>
   </table>
   </div>
 </br>
-<div align="center">
-  <table align="center" border="0" >
-  <tr>
-    <td> <img width="360"
-src="https://user-images.githubusercontent.com/33343210/61611561-45e8f180-ac86-11e9-932a-d0cbcd388048.png"/></td>
-     <td> <img width="360"
-src="https://user-images.githubusercontent.com/33343210/61611407-e38ff100-ac85-11e9-8b70-f083436cf3d4.png"/></td>
-     <td> <img width="360"
-src="https://user-images.githubusercontent.com/33343210/61611355-c6f3b900-ac85-11e9-9b0c-c3c3a4734474.png"/></td>
-  </tr>
-</table>
 
 ## Downloads
 Download the APK from the following link  <a href="" target="_blank">Download</a>

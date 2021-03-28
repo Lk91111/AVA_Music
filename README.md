@@ -31,9 +31,16 @@ https://github.com/Lk91111/AVA_Music/raw/main/app/AVAMusic_v1.0.apk
 
 ## Authors
 
-* **Laxmikant Verma** - *Initial work* - [Lk91111](https://github.com/Lk91111)
+* **Laxmikant Verma** - *Development* - [Lk91111](https://github.com/Lk91111)<br>
+* **Mamta Dewangan** - *Design and FrontEnd* - [Mamtadewangan](https://github.com/Mamtadewangan)
 
 
 ## Profile
 See my portfolio <a href="" target="_blank">Here</a>
 
+### Acknowledgments
+
+* Hat tip to anyone who's code was used
+* Inspired by kotlin devs
+* Copied some codes from GitHub
+* Designs inspired by @offriginal

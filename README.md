@@ -6,3 +6,6 @@ For screenshots, features, and more information, check out the <a href="" target
 
 # Downloads
 Download the APK from the following link  <a href="" target="_blank">Download</a>
+
+# Profile
+See my portfolio on <a href="" target="_blank">Here</a>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress AndroidUnknownAttribute -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:animateLayoutChanges="true"
+    android:layout_marginBottom="13dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="?android:attr/selectableItemBackground">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/album_1">
+            <com.makeramen.roundedimageview.RoundedImageView
+                android:id="@+id/song_art"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                app:riv_corner_radius="5dp"
+                android:src="@drawable/album_1"
+                android:contentDescription="@string/add_song" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:layout_marginStart="12dp"
+            android:orientation="vertical">
+
+            <com.koonat.easyfont.TextView
+                android:id="@+id/item_header"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:fontFamily="@font/body"
+                android:textStyle="bold"
+                android:text="Song Name"
+                tools:ignore="MissingPrefix"
+                android:singleLine="true"
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit ="marquee_forever"
+                android:scrollHorizontally="true"
+                android:textSize="18sp" />
+
+            <com.koonat.easyfont.TextView
+                android:id="@+id/item_artist"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:textColor="#A8A8A7"
+                android:singleLine="true"
+                android:ellipsize="marquee"
+                android:fontFamily="@font/body"
+                tools:ignore="MissingPrefix"
+                android:marqueeRepeatLimit ="marquee_forever"
+                android:scrollHorizontally="true"
+                android:textSize="15sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout android:id="@+id/buttonsPanel"
+        android:orientation="horizontal"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/add_to_playlist"
+            android:layout_width="62dp"
+            android:layout_height="wrap_content"
+            app:icon="@drawable/playlist_black"
+            android:insetLeft="0dp"
+            app:iconTint="#212121"
+            android:insetTop="0dp"
+            android:insetRight="0dp"
+            android:insetBottom="0dp"
+            app:iconGravity="textStart"
+            app:iconPadding="0dp"
+            android:layout_marginEnd="6.5dp"
+            android:backgroundTint="#94BCE3"
+            />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/delete_from_disk"
+            android:layout_width="62dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="7.5dp"
+            android:insetLeft="0dp"
+            android:insetTop="0dp"
+            android:insetRight="0dp"
+            android:insetBottom="0dp"
+            app:iconGravity="textStart"
+            app:iconPadding="0dp"
+            app:icon="@drawable/delete"
+            android:backgroundTint="#b71c1c"
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -23,8 +23,11 @@ src="https://user-images.githubusercontent.com/55667057/112758119-4e243300-900a-
   </div>
 </br>
 
-## Downloads
-Download the APK from the following link  <a href="" target="_blank">Download</a>
+### APK
+Download apk file here [AVAMusic v1.0](https://github.com/dtrung98/Source/raw/master/Music_player_v1_3.apk)
+```
+https://github.com/dtrung98/Source/raw/master/music_player_v1_2.apk
+```
 
 ## Profile
 See my portfolio <a href="" target="_blank">Here</a>

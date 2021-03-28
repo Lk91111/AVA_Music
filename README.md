@@ -1,6 +1,6 @@
 # AVAMusicPlayer
-Simple, Lightweight, User Friendly.
-🎵 Play songs from the cloud for free - stream or download on the go.<br>
+* Simple, Lightweight, User Friendly.<br>
+* 🎵 Play songs from the cloud for free - stream or download on the go.<br>
 
 For screenshots, features, and more information, check out the <a href="" target="_blank">website</a>.
 

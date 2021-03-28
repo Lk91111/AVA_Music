@@ -29,5 +29,11 @@ Download apk file here [AVAMusic v1.0](https://github.com/Lk91111/AVA_Music/raw/
 https://github.com/Lk91111/AVA_Music/raw/main/app/AVAMusic_v1.0.apk
 ```
 
+## Authors
+
+* **Laxmikant Verma** - *Initial work* - [Lk91111](https://github.com/Lk91111)
+
+
 ## Profile
 See my portfolio <a href="" target="_blank">Here</a>
+
